@@ -158,6 +158,7 @@ public class Arrays {
 	    Scanner entradaTeclado= new Scanner(System.in); //Para obtener los valores del usuario
 	       	
 	    //Requerimos los números al usuario
+	    //Y loco
 	    for (int i = 0; i < Numero; i++) {
 	    	System.out.println("Introduzca un número: ");
 	    	a1_enteros7[i]=entradaTeclado.nextInt();

@@ -8,9 +8,9 @@ public class Leccion_3 {
 	public static void main(String[] args) {
 		// ESTRUCTURAS DE CONTROL; SWITCH, BREAK, BREAK CONTINUE
 		// ESTRUCTURAS DE DATOS COMPLEJAS: ARRAYS MULTIDIMENSIONALES
-
+		//wdawtawaww
 		final byte CNUM = 4; //Constante de uso general durante la lección 
-		
+		//porque en uno de ellos lo modificaremos
 		//Veamos como definimos un array multidimensional
 		//Recordamos como definiamos un array unidimensional, o vector
 		int[] a_enteros = new int[CNUM]; //Definimos un array unidimensional de CNUM posiciones de enteros

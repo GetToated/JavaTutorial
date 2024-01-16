@@ -4,7 +4,7 @@ package ejemplos;
 import java.util.Scanner;
 
 public class Leccion_3 {
-
+zzx<zxz<xz<xz<xz<x<xz
 	public static void main(String[] args) {
 		// ESTRUCTURAS DE CONTROL; SWITCH, BREAK, BREAK CONTINUE
 		// ESTRUCTURAS DE DATOS COMPLEJAS: ARRAYS MULTIDIMENSIONALES
@@ -17,7 +17,7 @@ public class Leccion_3 {
 		
 		//Para definir un array n-dimensional usamos la misma notación
 		int[][] a2_enteros = new int[CNUM][CNUM]; //Array de dos dimensiones de CNUM X CNUM posiciones de enteros.
-		
+		<<<<>
 		//Definimos un array de 2 dimensiones con valores iniciales
 		//para "entender" mejor su estructura
 		int[][] a2_enteros2 = {{1,2,3}, {4,5,6}, {7,8,9}};
